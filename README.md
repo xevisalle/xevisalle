@@ -1,15 +1,12 @@
 <h1>hey, I'm Xevi</h1>
-<h3>🔐 Cryptography Researcher && 🎓 PhD in Applied Cryptography</h3>
-
----
----
 
 ### 🎲 Pseudorandom things
 
-- I do research on ZK proofs and privacy-preserving protocols
-- I code all kinds of cryptographic primitives
-- I like to write smart contracts
-- I'm interested in security reviews
+- I have a PhD in Applied Cryptography by Pompeu Fabra University.
+- I do research on ZK proofs and privacy-preserving protocols.
+- I code all kinds of cryptographic primitives.
+- I like to write smart contracts.
+- I'm interested in security reviews.
 
 ---
 
