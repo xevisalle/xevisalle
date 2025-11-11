@@ -14,7 +14,7 @@
 
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=xevisalle&show_icons=true&theme=merko" />
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xevisalle&layout=compact&theme=default" />
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xevisalle&layout=compact&theme=merko" />
 </p>
 
 ---
